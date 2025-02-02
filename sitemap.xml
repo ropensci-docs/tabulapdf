@@ -1,0 +1,23 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://docs.ropensci.org/tabulapdf/404.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/CODE_OF_CONDUCT.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/CONTRIBUTING.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/LICENSE.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/PULL_REQUEST_TEMPLATE.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/articles/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/articles/tabulapdf.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/authors.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/news/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/extract_areas.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/extract_metadata.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/extract_tables.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/extract_text.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/get_page_dims.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/make_thumbnails.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/split_merge.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/stop_logging.html</loc></url>
+<url><loc>https://docs.ropensci.org/tabulapdf/reference/tabulapdf-package.html</loc></url>
+</urlset>
+

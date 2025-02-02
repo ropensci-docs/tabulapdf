@@ -1,0 +1,9 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  tabulapdf: tabulapdf.html
+last_built: 2025-02-02T06:27Z
+urls:
+  reference: https://docs.ropensci.org/tabulapdf/reference
+  article: https://docs.ropensci.org/tabulapdf/articles

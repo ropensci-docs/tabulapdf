@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "03cabea1c4cd5fec818a9539115d773c5cb4ff0b",
+    "author": "Mauricio 'Pacha' Vargas Sepulveda <m.sepulveda@mail.utoronto.ca>",
+    "time": "2025-01-03T08:31:08Z",
+    "files": 14,
+    "merge": false,
+    "message": "add CRAN changes to repo\n"
+  },
+  "repo": "https://github.com/ropensci/tabulapdf",
+  "pkg": "tabulapdf",
+  "time": "2026-08-30T07:17:49Z"
+}
